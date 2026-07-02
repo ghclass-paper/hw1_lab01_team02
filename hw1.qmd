@@ -1,0 +1,78 @@
+---
+title: "Homework 1"
+format:
+  html:
+    self-contained: true
+author:
+- teammate 1
+- teammate 2
+- teammate 3
+---
+
+## Task 1 - Write a function
+
+### Write up
+
+<!--
+In this section include your write up for this task - do not include it within these html comment tags.
+
+The write up must appear in the final rendered html document.
+-->
+
+### Function
+
+```{r task1}
+placeholder = function(x) {
+  x
+}
+```
+
+### Example Usage
+
+```{r task1_examples}
+#| error: true
+
+```
+
+
+## Task 2 - Extend the function
+
+### Write up
+
+<!--
+In this section include your write up for this task - do not include it within these html comment tags.
+
+The write up must appear in the final rendered html document.
+-->
+
+### Function
+
+```{r task2}
+placeholder_ext = function(x, ...) {
+  x
+}
+```
+
+### Example Usage
+
+```{r task2_examples}
+#| error: true
+
+```
+
+
+## Task 3 - Summarize your results
+
+### Write up
+
+<!--
+In this section include your write up for this task - do not include it within these html comment tags.
+
+The write up must appear in the final rendered html document.
+-->
+
+### Code
+
+```{r task3}
+
+```
