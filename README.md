@@ -9,6 +9,9 @@ Due: 2025-09-15
 *This is a placeholder assignment in a demo course organization; the task descriptions below are intentionally generic. See the organization's `instructor` repository for details.*
 
 ## Team members
+- Alice (alice@example.edu)
+- Bob (bob@example.edu)
+- Elizabeth (elizabeth@example.edu)
 
 ## Background
 
