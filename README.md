@@ -4,7 +4,7 @@
 Homework 1
 ----------
 
-Due: 2025-09-15
+Due: 2025-09-22
 
 *This is a placeholder assignment in a demo course organization; the task descriptions below are intentionally generic. See the organization's `instructor` repository for details.*
 
